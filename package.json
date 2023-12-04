@@ -1,0 +1,19 @@
+{
+  "name": "bingomulti",
+  "version": "1.0.0",
+  "description": "Bingo for my friends and I",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UngTDavid/bingoMulti.git"
+  },
+  "author": "David ung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UngTDavid/bingoMulti/issues"
+  },
+  "homepage": "https://github.com/UngTDavid/bingoMulti#readme"
+}
